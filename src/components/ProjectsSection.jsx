@@ -7,7 +7,7 @@ const projects = [
         description: " Built a dynamic Weather Dashboard using React.js, JavaScript, HTML5, and CSS3 that displays real-time weather and a 5-day forecast via public APIs. Integrated city-based search, recent history, and responsive design to ensure consistent cross-device user experience. ",
         image: "/projects/weather dashboard.jpg",
         tags: ["HTML5", "CSS3", "JavaScript", "React.js"],
-        demoUrl: " https://codesandbox.io/p/github/Rakshit052005/Weather-Dashboard/main?import=true&workspaceId=ws_9sHgbim9Bmua7p18DNj5uT",
+        demoUrl: " https://weather-dashboard-e6dr.onrender.com",
         githubUrl: "https://github.com/Rakshit052005/Weather-Dashboard",
     }, 
     {
