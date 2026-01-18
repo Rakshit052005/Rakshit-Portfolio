@@ -27,6 +27,22 @@ const projects = [
         tags: ["c++"],
         githubUrl: "https://github.com/Rakshit052005/Snake-Game",
     },
+    {
+        id: 4,
+        title: "Smart Traffic Management System",
+        description: " Developed a Smart Traffic Management System that models city intersections as graph nodes and roads as weighted edges. Implemented Dijkstra’s Algorithm with a priority queue to calculate the shortest travel time between intersections. Simulated real-time traffic congestion by dynamically updating road weights and recalculating optimal routes. Optimized code for performance and modularity, demonstrating practical application of graphs and heaps in real-world traffic optimization.",
+        image: "/projects/smart traffic management system.jpg",
+        tags: ["C++", "Graph", "Dijkstra", "Priority Queue", "Shortest Path"],
+        githubUrl: "https://github.com/Rakshit052005/Smart-Traffic-Management-System",
+    },
+    {
+        id: 4,
+        title: "Chat-App",
+        description: " Developed a real-time chat application using React.js and WebSockets that enables instant messaging between multiple users without page refresh. Designed a responsive UI with dynamic message components, user input handling, and live message broadcasting. Gained hands-on experience in real-time communication, component-based architecture, and responsive web design.",
+        image: "/projects/chat app.jpg",
+        tags: ["React.js", "Javascript", "CSS", "WebSocket", "Real-Time Applications", "UI/UX Design"],
+        githubUrl: "https://github.com/Rakshit052005/Chat-App",
+    },
 ];
 
 export const ProjectsSection = () => {
