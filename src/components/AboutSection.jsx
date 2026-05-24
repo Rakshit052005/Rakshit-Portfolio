@@ -14,7 +14,7 @@ export const AboutSection = () => {
                         <h3 className="text-2xl font-semibold">Passionate Software developer</h3>
 
                         <p className="text-muted-foreground">
-                            I'm a Web Developer and Computer Science undergraduate at Chandigarh University, passionate about building modern, responsive, and functional websites. I specialize in crafting clean UI/UX using HTML, CSS, JavaScript, and React.js, while also integrating backend features with Node.js, Express.js, and databases like MongoDB and SQL. Through academic projects and an internship at CodTech IT Solutions, I’ve developed real-world applications like portfolio websites, an e-learning platform, a weather dashboard, and a dynamic furniture e-commerce site — focusing on both performance and user experience.
+                            I'm a Web Developer and Computer Science graduate at Chandigarh University, passionate about building modern, responsive, and functional websites. I specialize in crafting clean UI/UX using HTML, CSS, JavaScript, and React.js, while also integrating backend features with Node.js, Express.js, and databases like MongoDB and SQL. Through academic projects and an internship at CodTech IT Solutions, I’ve developed real-world applications like portfolio websites, an e-learning platform, a weather dashboard, and a dynamic furniture e-commerce site — focusing on both performance and user experience.
 
                         </p>
 
@@ -29,11 +29,11 @@ export const AboutSection = () => {
                                 Get in Touch
                             </a>
 
-                            <a href="Resume Rakshit New 1.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                            <a href="rakshit_cv 1.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                                 Download Resume 1
                             </a>
 
-                            <a href="Rakshit Resume Updated 1.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                            <a href="RR1.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                                 Download Resume 2
                             </a>
                         </div>

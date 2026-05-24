@@ -14,7 +14,7 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        I am a final-year Computer Science Engineering student at Chandigarh University with a strong work ethic and a passion for technology. Originating from Haryana, I bring a diverse perspective and a determined attitude to all my endeavors. I am eager to leverage my skills and knowledge to contribute to innovative projects and further my growth in the tech industry. <br></br> <br></br>
+                        Computer Science Engineering graduate from Chandigarh University with skills in full-stack web development and Data Structures & Algorithms. Proficient in React.js, JavaScript, HTML, CSS, backend development, and C++, with experience building responsive web applications and solving real-world problems. Seeking an entry-level Software Engineer role to develop scalable and user-focused applications. <br></br> <br></br>
 
                        💡 Continuously learning, consistently building, and striving for growth every day.
                     </p>

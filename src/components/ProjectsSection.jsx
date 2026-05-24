@@ -36,7 +36,7 @@ const projects = [
         githubUrl: "https://github.com/Rakshit052005/Smart-Traffic-Management-System",
     },
     {
-        id: 4,
+        id: 5,
         title: "Chat-App",
         description: " Developed a real-time chat application using React.js and WebSockets that enables instant messaging between multiple users without page refresh. Designed a responsive UI with dynamic message components, user input handling, and live message broadcasting. Gained hands-on experience in real-time communication, component-based architecture, and responsive web design.",
         image: "/projects/chat app.jpg",
