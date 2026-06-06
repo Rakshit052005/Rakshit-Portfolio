@@ -14,14 +14,20 @@ export const AboutSection = () => {
                         <h3 className="text-2xl font-semibold">Passionate Software developer</h3>
 
                         <p className="text-muted-foreground">
-                            I'm a Web Developer and Computer Science graduate at Chandigarh University, passionate about building modern, responsive, and functional websites. I specialize in crafting clean UI/UX using HTML, CSS, JavaScript, and React.js, while also integrating backend features with Node.js, Express.js, and databases like MongoDB and SQL. Through academic projects and an internship at CodTech IT Solutions, I’ve developed real-world applications like portfolio websites, an e-learning platform, a weather dashboard, and a dynamic furniture e-commerce site — focusing on both performance and user experience.
+                            I am a Software Developer and Computer Science Engineering graduate from Chandigarh University, passionate about building scalable and user-friendly web apps. My expertise lies in Full-Stack Web Development, with experience in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and SQL.
 
                         </p>
 
                         <p className="text-muted-foreground">
-                            I actively explore new tools, contribute on GitHub, and solve coding challenges on LeetCode to keep improving. I’m open to internship and project opportunities where I can contribute to impactful web development work and continue learning with a passionate team. <br></br> <br></br>
+                            
+                            During my academic journey and internship at CodTech IT Solutions, I developed portfolio websites, e-learning platforms, weather dashboards, chat applications, and e-commerce solutions. These experiences strengthened my skills in frontend development, backend integration, database management, REST APIs, and problem-solving.
 
-                            Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, C++, Git, API Integration, Responsive Design.
+                        </p>
+
+                        <p className="text-muted-foreground">
+                            I am passionate about software engineering, clean code practices, and continuous learning while strengthening my problem-solving skills through Data Structures & Algorithms in C++. Currently seeking opportunities as a Software Developer or Full-Stack Developer. <br></br> <br></br>
+
+                            💻 Skills: React.js, JavaScript, Node.js, Express.js, MongoDB, SQL, HTML, CSS, C++, Git, GitHub, REST APIs, Data Structures & Algorithms, Responsive Web Design.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -29,13 +35,10 @@ export const AboutSection = () => {
                                 Get in Touch
                             </a>
 
-                            <a href="rakshit_cv 1.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
-                                Download Resume 1
+                            <a href="CV_Rakshit.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                                Download CV
                             </a>
 
-                            <a href="RR1.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
-                                Download Resume 2
-                            </a>
                         </div>
                     </div>
 
@@ -50,7 +53,7 @@ export const AboutSection = () => {
                                         Web Development
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        Developing performant, accessible, and mobile-responsive user interfaces leveraging modern front-end frameworks.
+                                        Building responsive and interactive web applications with a focus on performance, usability, and seamless user experience.
                                     </p>
                                 </div>
                             </div>
@@ -80,7 +83,7 @@ export const AboutSection = () => {
                                         System Design
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        Worked on frontend web development and built several responsive and user-friendly projects.
+                                        Understanding application architecture, database design, API integration, and scalable development practices through academic and real-world projects.
                                     </p>
                                 </div>
                             </div>
