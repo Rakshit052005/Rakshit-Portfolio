@@ -1,7 +1,7 @@
 # Portfolio Website 🌐
 
 ## 📌 Project Description
-This project is a Personal Portfolio Website developed to showcase my skills, projects, education, certifications, and professional journey. It provides a modern, responsive, and interactive platform for recruiters and visitors to learn more about me and explore my work.
+This project is a Portfolio Website developed to showcase my skills, projects, education, certifications, and professional journey. It provides a modern, responsive, and interactive platform for recruiters and visitors to learn more about me and explore my work.
 
 ## 🧠 Concepts Used
 - Component-Based Architecture
