@@ -1,12 +1,34 @@
-# React + Vite
+# Portfolio Website 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
+This project is a Personal Portfolio Website developed to showcase my skills, projects, education, certifications, and professional journey. It provides a modern, responsive, and interactive platform for recruiters and visitors to learn more about me and explore my work.
 
-Currently, two official plugins are available:
+## 🧠 Concepts Used
+- Component-Based Architecture
+- Responsive Web Design
+- Client-Side Routing
+- State Management
+- Modern UI/UX Principles
+- Reusable React Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Features
+- Fully Responsive Design
+- Dark/Light Mode Toggle
+- About Me Section
+- Skills Showcase
+- Project Portfolio with Live Demo Links
+- GitHub Repository Links
+- Resume Download Option
+- Education & Certifications Section
+- Contact Form
+- Smooth Scrolling Navigation
+- Interactive and Modern User Interface
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- Language: JavaScript
+- Framework: React.js
+- Styling: Tailwind CSS
+- Build Tool: Vite
+- Routing: React Router DOM
+- Version Control: Git & GitHub
+- IDE: Visual Studio Code
